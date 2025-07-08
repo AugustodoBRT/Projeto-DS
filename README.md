@@ -30,8 +30,8 @@ Este sistema simula uma plataforma bancária digital, permitindo aos usuários a
 - ✅ Java 17
 - ✅ Spring Boot
 - ✅ Spring Security
-- ✅ JPA / Hibernate
-- ✅ MySQL
+- ✅ JPA
+- ✅ H2
 
 ### Front-End (a ser desenvolvido)
 - 🚧 Angular
