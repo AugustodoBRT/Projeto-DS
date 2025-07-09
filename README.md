@@ -27,7 +27,7 @@ Este sistema simula uma plataforma bancária digital, permitindo aos usuários a
 ## 🛠️ Tecnologias
 
 ### Back-End
-- ✅ Java 17
+- ✅ Java 21
 - ✅ Spring Boot
 - ✅ Spring Security
 - ✅ JPA
